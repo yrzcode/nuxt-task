@@ -1,0 +1,50 @@
+/**
+ * Object Schemas Index
+ * Auto-generated - do not edit manually
+ */
+
+export * from './BoolFieldUpdateOperationsInput.schema';
+export * from './BoolFilter.schema';
+export * from './BoolWithAggregatesFilter.schema';
+export * from './DateTimeFieldUpdateOperationsInput.schema';
+export * from './DateTimeFilter.schema';
+export * from './DateTimeWithAggregatesFilter.schema';
+export * from './IntFieldUpdateOperationsInput.schema';
+export * from './IntFilter.schema';
+export * from './IntWithAggregatesFilter.schema';
+export * from './NestedBoolFilter.schema';
+export * from './NestedBoolWithAggregatesFilter.schema';
+export * from './NestedDateTimeFilter.schema';
+export * from './NestedDateTimeWithAggregatesFilter.schema';
+export * from './NestedFloatFilter.schema';
+export * from './NestedIntFilter.schema';
+export * from './NestedIntWithAggregatesFilter.schema';
+export * from './NestedStringFilter.schema';
+export * from './NestedStringWithAggregatesFilter.schema';
+export * from './StringFieldUpdateOperationsInput.schema';
+export * from './StringFilter.schema';
+export * from './StringWithAggregatesFilter.schema';
+export * from './TaskArgs.schema';
+export * from './TaskAvgAggregateInput.schema';
+export * from './TaskAvgOrderByAggregateInput.schema';
+export * from './TaskCountAggregateInput.schema';
+export * from './TaskCountOrderByAggregateInput.schema';
+export * from './TaskCreateInput.schema';
+export * from './TaskCreateManyInput.schema';
+export * from './TaskMaxAggregateInput.schema';
+export * from './TaskMaxOrderByAggregateInput.schema';
+export * from './TaskMinAggregateInput.schema';
+export * from './TaskMinOrderByAggregateInput.schema';
+export * from './TaskOrderByWithAggregationInput.schema';
+export * from './TaskOrderByWithRelationInput.schema';
+export * from './TaskScalarWhereWithAggregatesInput.schema';
+export * from './TaskSelect.schema';
+export * from './TaskSumAggregateInput.schema';
+export * from './TaskSumOrderByAggregateInput.schema';
+export * from './TaskUncheckedCreateInput.schema';
+export * from './TaskUncheckedUpdateInput.schema';
+export * from './TaskUncheckedUpdateManyInput.schema';
+export * from './TaskUpdateInput.schema';
+export * from './TaskUpdateManyMutationInput.schema';
+export * from './TaskWhereInput.schema';
+export * from './TaskWhereUniqueInput.schema';

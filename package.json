@@ -12,9 +12,18 @@
   "dependencies": {
     "@nuxt/eslint": "1.9.0",
     "@picocss/pico": "^2.1.1",
+    "@prisma/client": "^6.15.0",
     "eslint": "^9.0.0",
     "nuxt": "^4.0.3",
     "vue": "^3.5.20",
-    "vue-router": "^4.5.1"
-  }
+    "vue-router": "^4.5.1",
+    "zod": "^4.1.5"
+  },
+  "devDependencies": {
+    "prisma": "^6.15.0",
+    "prisma-zod-generator": "^1.17.9",
+    "sqlite3": "^5.1.7",
+    "typescript": "^5.9.2"
+  },
+  "packageManager": "yarn@4.9.4"
 }
